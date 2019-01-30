@@ -1,5 +1,7 @@
 # Ground Truth Cat Labels
 
+A sample project for getting started with AWS SageMaker Ground Truth
+
 ## Create S3 bucket for input and output content
 
 ```bash
